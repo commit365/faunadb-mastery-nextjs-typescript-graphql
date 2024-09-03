@@ -164,4 +164,4 @@ In this lesson, you have learned how to optimize the performance of your FaunaDB
 
 In the next lesson, we will explore advanced querying techniques with FaunaDB, allowing you to leverage the full power of FaunaDB's query language to retrieve and manipulate data effectively.
 
-[Next Lesson](./08_performance_optimization.md)
+[Next Lesson](./09_testing_faunadb_integrations.md)
